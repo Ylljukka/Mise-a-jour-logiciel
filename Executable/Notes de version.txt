@@ -1,0 +1,8 @@
+Mise à jour logiciels V2.0.0
+
+- Ajout d'une interface graphique
+- Possibilité de mettre à jour les packages Python pour les postes disposant de PIP
+
+
+Pour toute suggestion ou bug, merci d'envoyer un mail à :
+reynaud.thomas@outlook.com
