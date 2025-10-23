@@ -1,10 +1,13 @@
 Mise à jour des Logiciels Windows et des Packages Python
 
-Vue d'ensemble
-Ce script PowerShell permet de mettre à jour les logiciels installés sur les machines Windows en utilisant Winget, ainsi que les packages Python via pip. Il offre une interface graphique simple pour sélectionner les applications et packages à mettre à jour, et gère automatiquement le processus de mise à jour.
+Vue d'ensemble :
+
+Ce script permet de mettre à jour les logiciels installés sur les machines Windows en utilisant Winget, ainsi que les packages Python via pip. 
+Il offre une interface graphique simple pour sélectionner les applications et packages à mettre à jour, et gère automatiquement le processus de mise à jour.
 
 
-Fonctionnalités
+Fonctionnalités :
+
 Mise à jour des logiciels Windows : Rafraîchit et affiche une liste des logiciels installés pouvant être mis à jour via Winget.
 Mise à jour des packages Python : Vérifie si pip est installé, met à jour pip, puis affiche et met à jour les packages Python obsolètes.
 Interface utilisateur graphique (GUI) : Une interface utilisateur permet de sélectionner les logiciels et packages à mettre à jour.
