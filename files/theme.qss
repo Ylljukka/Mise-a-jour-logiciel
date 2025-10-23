@@ -1,0 +1,47 @@
+QWidget {
+    background-color: #232629;
+    color: #f0f0f0;
+    
+}
+
+QPushButton {
+    background-color: #3a3f44;
+}
+
+QPushButton:hover {
+    background-color: #50565e;
+}
+
+QListWidget {
+    background: #292d32;
+}
+
+QListWidget::item:selected {
+    background: #50565e;
+    color: #fff;
+}
+
+QProgressBar {
+    background: #232629;
+    text-align: center;
+    color: #fff;
+}
+
+QProgressBar::chunk {
+    background-color: #4caf50;
+}
+
+
+QMenuBar {
+    background: #232629;
+    color: #f0f0f0;
+}
+
+QMenuBar::item:selected {
+    background: #50565e;
+}
+
+QPlainTextEdit {
+	background-color: #232629;
+    color: #f0f0f0;
+}
