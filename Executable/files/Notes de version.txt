@@ -1,0 +1,12 @@
+Mise à jour logiciels V3.0.0
+
+- Refonte total en Python
+- Ajout graphiques (barre de progression, animations etc...)
+- Multithreading ajouté
+- Ajout d'une fenêtre de chargement
+
+
+Mise à jour logiciels V2.0.0
+
+- Ajout d'une interface graphique
+- Possibilité de mettre à jour les packages Python pour les postes disposant de PIP
