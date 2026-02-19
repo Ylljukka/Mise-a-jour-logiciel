@@ -1,9 +1,9 @@
-**Mise à jour logiciel**
+# **Gestionnaire de mise à jour**
 
 Un script Python avec interface graphique pour automatiser la mise à jour des logiciels Windows et des packages Python.
 
 
-**Fonctionnalités**
+## **`Fonctionnalités`**
 
 Installation ou mise à jour de logiciels via PowerShell.
 
@@ -15,27 +15,33 @@ Compatible avec les systèmes Windows.
 
 
 
-**Prérequis**
+## **`Prérequis`**
 
-Python 3.x
-
-Accès administrateur pour installer certains logiciels
+Python 3.x (sauf si vous passez par l'executable)
 
 
 
-**Installation**
 
-Clonez ce dépôt :
-
-git clone https://github.com/Ylljukka/Mise-a-jour-logiciel.git
-cd Mise-a-jour-logiciel
+## **`Installation`**
 
 
-Installez les dépendances nécessaires :
+### **Choix 1 :**
 
-pip install -r requirements.txt
+- Télécharger le dossier "executable"
 
-Exécutez le script :
 
-python mise_a_jour.pyw
+
+### **Choix 2 :**
+
+- Clonez ce dépôt :
+  git clone https://github.com/Ylljukka/Mise-a-jour-logiciel.git
+
+
+- Installez les dépendances nécessaires :
+
+- pip install -r requirements.txt
+
+- Exécutez le script :
+  
+  python mise_a_jour.pyw
 
