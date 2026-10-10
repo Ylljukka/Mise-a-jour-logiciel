@@ -1,3 +1,20 @@
+Mise à jour logiciels V3.1.0
+
+- Ajout dans le menu cascade d'un bouton de rafraîchissement
+- Ajout de l'heure de début de chaque mise à jour logicielle (avec léger agrandissement de la fenêtre)
+- Amélioration des performances pour la mise à jour des paquets Python
+- Amélioration des performances lors du chargement
+- Correction des messages de mise à jour au démarrage
+- Correction du bug de mise à jour de "pip"
+- Le code a été scindé en plusieurs fichiers distincts pour améliorer la lisibilité
+- Blocage du bouton "Quitter" lors d'une mise à jour, ainsi que de la "croix" de fermeture
+- Ajout d'un bouton d'annulation de la mise à jour
+- Pop-up indiquant le nombre de réussites et d'échecs en fin de traitement
+- Ajout d'un export des logs possible via le menu cascade "Fichier"
+- Remplacement du script Powershell gérant les mises à jours pour plus de fiabilité et de performances
+
+
+---------------------------------------------------------------------------------
 Mise à jour logiciels V3.0.0
 
 - Refonte total en Python
@@ -5,7 +22,7 @@ Mise à jour logiciels V3.0.0
 - Multithreading ajouté
 - Ajout d'une fenêtre de chargement
 
-
+-----------------------------------------------------------------------------------
 Mise à jour logiciels V2.0.0
 
 - Ajout d'une interface graphique
