@@ -65,6 +65,8 @@ Dans le Planificateur de tâches Windows, renseignez le champ **« Commencer dan
 - Certains logiciels ne peuvent pas être mis à jour automatiquement (par exemple quand la technologie d'installation a changé). Winget demande alors de les désinstaller puis de les réinstaller.
 - Le programme met à jour les packages Python du `pip` présent sur le poste.
 
+- Au premier lancement de l'exe, Windows SmartScreen peut afficher « Windows a protégé votre ordinateur », car l'exécutable n'est pas signé numériquement. Cliquez sur « Informations complémentaires » puis « Exécuter quand même ». Le code source est public dans ce dépôt : vous pouvez le consulter ou lancer le programme depuis les sources.
+
 
 ## Auteur
 
